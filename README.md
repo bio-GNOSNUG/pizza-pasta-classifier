@@ -1,5 +1,13 @@
 # pizza-pasta-classifier
-A mini-project exploring a machine learning pipeline for the classification of pizza and pasta containing dishes.
+A mini-project exploring a machine learning pipeline for the classification of pizza and pasta containing dishes. <br />
+
+<p float="left">
+<img width="168" alt="image" src="https://github.com/bio-GNOSNUG/pizza-pasta-classifier/assets/62382155/3ae8787f-444a-4399-8242-e13140891aff">
+<img width="169" alt="image" src="https://github.com/bio-GNOSNUG/pizza-pasta-classifier/assets/62382155/fa4b63df-c028-492d-9d1c-50e811dca4bf">
+</p>
+
+
+
 
 # Introduction
 Machine learning techniques capable of accurately identifying food items, groups, or contaminants have the potential to revolutionise the food industry at scale through improvements to food quality and safety during production. However, the development of a robust and generalisable machine learning pipeline poses challenges, including the need for extensive datasets and addressing variations in food presentation, such as differences in shape, color, and form.
